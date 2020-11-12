@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bee13ecd-074c-43c5-90ea-7f8cdafbb9c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1108/asfdfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1112/BOJ_8958_OX퀴즈.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1108/asfdfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/1108/asfdfs.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,46 +26,52 @@
           <entry key="project.open.time.4" value="7" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="29" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="py" value="193" />
+          <entry key="py" value="194" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="193" />
+          <entry key="Python" value="194" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="62" />
-          <entry key="py" value="27462" />
+          <entry key="py" value="27632" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="62" />
-          <entry key="Python" value="27462" />
+          <entry key="Python" value="27632" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1108/asfdfs.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1112/BOJ_8958_OX퀴즈.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -84,7 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1030/농작물.py" />
         <option value="$PROJECT_DIR$/1102/스위치.py" />
         <option value="$PROJECT_DIR$/1102/퀵정렬.py" />
         <option value="$PROJECT_DIR$/1102/트리.py" />
@@ -135,12 +141,12 @@
         <option value="$PROJECT_DIR$/algo/algo2_대전_2반_김병수.py" />
         <option value="$PROJECT_DIR$/algo/algo1_대전_2반_김병수.py" />
         <option value="$PROJECT_DIR$/1108/asfdfs.py" />
+        <option value="$PROJECT_DIR$/1112/BOJ_8958_OX퀴즈.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="80" />
-    <option name="y" value="10" />
+    <option name="x" value="640" />
     <option name="width" value="1135" />
     <option name="height" value="955" />
   </component>
@@ -238,8 +244,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.algo1_대전_2반_김병수">
-    <configuration name="농작물" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.BOJ_8958_OX퀴즈">
+    <configuration name="BOJ_8958_OX퀴즈" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,32 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1030" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1112" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1030/농작물.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BOJ_1225_이상한 곱셈" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1108" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1108/BOJ_1225_이상한 곱셈.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1112/BOJ_8958_OX퀴즈.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -534,20 +519,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.농작물" />
-      <item itemvalue="Python.BOJ_1225_이상한 곱셈" />
       <item itemvalue="Python.SWEA_1284_수도 요금 경쟁" />
       <item itemvalue="Python.SWEA_1288_새로운 불면증 치료" />
       <item itemvalue="Python.algo1_대전_2반_김병수" />
       <item itemvalue="Python.algo2_대전_2반_김병수" />
+      <item itemvalue="Python.BOJ_8958_OX퀴즈" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_8958_OX퀴즈" />
         <item itemvalue="Python.algo1_대전_2반_김병수" />
         <item itemvalue="Python.algo2_대전_2반_김병수" />
         <item itemvalue="Python.SWEA_1288_새로운 불면증 치료" />
         <item itemvalue="Python.SWEA_1284_수도 요금 경쟁" />
-        <item itemvalue="Python.BOJ_1225_이상한 곱셈" />
       </list>
     </recent_temporary>
   </component>
@@ -565,14 +549,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="8" width="908" height="764" extended-state="0" />
+    <frame x="512" y="0" width="908" height="764" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30760625" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30760625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.021505376" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4226646" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3469388" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -616,7 +600,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1107/BOJ_17413_단어 뒤집기2.py" />
     <entry file="file://$PROJECT_DIR$/1106/BOJ_1531_투명.py" />
     <entry file="file://$PROJECT_DIR$/1106/BOJ_2562_최댓값.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/parse.py">
@@ -891,9 +874,12 @@
     <entry file="file://$PROJECT_DIR$/algo/algo1_대전_2반_김병수.py" />
     <entry file="file://$PROJECT_DIR$/algo/algo2_대전_2반_김병수.py" />
     <entry file="file://$PROJECT_DIR$/1108/asfdfs.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1112/BOJ_8958_OX퀴즈.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
